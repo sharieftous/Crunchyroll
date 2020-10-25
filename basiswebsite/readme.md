@@ -60,10 +60,6 @@ Wat ik nog lastig vond is het aanmaken van een main, met daarin een section en d
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/screenshotcrunchyroll.png)
 
 
--screenshot(s) van hoe ver je bent
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/screenshot-voortgang.png)
-
-
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
