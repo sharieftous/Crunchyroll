@@ -6,9 +6,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. -Mijn eigen werk van het eerste leerjaar voor het toepassen van JS-
+2. -De website van crunchyroll zelf voor het inspecteren-
+3. -Meerdere sites bezocht via google om mij op weg te helpen.-
 
 
 
@@ -22,8 +22,9 @@ Vanwege tijdnood heb ik helaas niet kunnen doen wat ik precies in gedachte had. 
 
 
 -screenshot(s) van je eindresultaat-
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/screenshotvoortgang2.png)
 
-(images/screenshotvoortgang2.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/screenshotinlogpagina.png)
 
 
 ## Voortgang 3 (week 6)
@@ -36,7 +37,9 @@ Ik ben dus gebleven waar ik was tijdens het vorige gesprek....
 ## Voortgang 2 (week 5)
 
 Bij mijn 2e gesprek heb ik mijn gehele 1e pagina af kunne krijgen. CSS is goed gelukt om de stijl van we originele website te gebruiken. Alleen moest ik nog nadenken over een 2e pagina en het toevoegen van javascript:
-![(images/screenshotvoortgang2.png)]
+
+-screenshot(s) van hoe ver je bent
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/screenshotvoortgang2.png)
 
 ## Voortgang 1 (week 3)
 
@@ -50,11 +53,15 @@ Die flexbox oefeningen, het maken van een header is nodig in mijn website en daa
 Wat ik nog lastig vond is het aanmaken van een main, met daarin een section en dan nog een keuze maken uit een article. De content die ik wil plaatsen in mijn article is wel gelukt, alleen niet op de exacte manier, hier heb ik gewoon nog meer tijd voor nodig en moet ik nog beter mee experimenteren. 
 
 **Screenshot(s):**
+
+-screenshot(s) van hoe ver je bent
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/screenshot-voortgang.png))
+
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/screenshotcrunchyroll.png)
 
 
 -screenshot(s) van hoe ver je bent
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/screenshot-voortgang.png))
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/screenshot-voortgang.png)
 
 
 ### Agenda voor meeting
